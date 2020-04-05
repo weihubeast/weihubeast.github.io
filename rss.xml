@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>weihubeats </title>
+    <link>https://weihubeats.github.io</link>
+    <atom:link href="https://weihubeats.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>一厢情愿，有始无终</description>
+    <generator>Solo, v4.0.0, https://solo.b3log.org</generator>
+    <lastBuildDate>Sun, 05 Apr 2020 12:14:49 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <item>
+      <title>Springboot（七）整合redis</title>
+      <link>https://weihubeats.github.io/articles/2020/04/01/1585739482106.html</link>
+      <description/>
+      <author>weihubeats</author>
+      <guid>https://weihubeats.github.io/articles/2020/04/01/1585739482106.html</guid>
+      <category>SpringBoot</category>
+      <pubDate>Wed, 01 Apr 2020 19:11:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>Springboot整合mybatis完整版（企业级基本demo）</title>
+      <link>https://weihubeats.github.io/articles/2020/04/01/1585739446412.html</link>
+      <description/>
+      <author>weihubeats</author>
+      <guid>https://weihubeats.github.io/articles/2020/04/01/1585739446412.html</guid>
+      <category>SpringBoot</category>
+      <pubDate>Wed, 01 Apr 2020 19:10:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>Springboot入门（六）读取配置文件中的数据(list、map、对象)</title>
+      <link>https://weihubeats.github.io/articles/2020/04/01/1585739068145.html</link>
+      <description/>
+      <author>weihubeats</author>
+      <guid>https://weihubeats.github.io/articles/2020/04/01/1585739068145.html</guid>
+      <category>SpringBoot</category>
+      <pubDate>Wed, 01 Apr 2020 19:10:02 +0800</pubDate>
+    </item>
+    <item>
+      <title>springboot如何发成可运行的jar（maven + idea）</title>
+      <link>https://weihubeats.github.io/articles/2020/04/01/1585739042714.html</link>
+      <description/>
+      <author>weihubeats</author>
+      <guid>https://weihubeats.github.io/articles/2020/04/01/1585739042714.html</guid>
+      <category>SpringBoot</category>
+      <pubDate>Wed, 01 Apr 2020 19:04:02 +0800</pubDate>
+    </item>
+    <item>
+      <title>springboot(五)统一异常处理和返回对象</title>
+      <link>https://weihubeats.github.io/articles/2020/04/01/1585739009058.html</link>
+      <description/>
+      <author>weihubeats</author>
+      <guid>https://weihubeats.github.io/articles/2020/04/01/1585739009058.html</guid>
+      <category>SpringBoot</category>
+      <pubDate>Wed, 01 Apr 2020 19:03:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>springboot入门(四)异步调用Async</title>
+      <link>https://weihubeats.github.io/articles/2020/04/01/1585738959686.html</link>
+      <description/>
+      <author>weihubeats</author>
+      <guid>https://weihubeats.github.io/articles/2020/04/01/1585738959686.html</guid>
+      <category>SpringBoot</category>
+      <pubDate>Wed, 01 Apr 2020 19:02:39 +0800</pubDate>
+    </item>
+    <item>
+      <title>springboot入门（三）Springboot集成Junit单元测试</title>
+      <link>https://weihubeats.github.io/articles/2020/04/01/1585738917401.html</link>
+      <description/>
+      <author>weihubeats</author>
+      <guid>https://weihubeats.github.io/articles/2020/04/01/1585738917401.html</guid>
+      <category>SpringBoot</category>
+      <pubDate>Wed, 01 Apr 2020 19:01:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>Java设计模式之观察者模式</title>
+      <link>https://weihubeats.github.io/articles/2020/04/01/1585738603277.html</link>
+      <description/>
+      <author>weihubeats</author>
+      <guid>https://weihubeats.github.io/articles/2020/04/01/1585738603277.html</guid>
+      <category>设计模式</category>
+      <pubDate>Wed, 01 Apr 2020 18:59:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>Java设计模式之策略模式</title>
+      <link>https://weihubeats.github.io/articles/2020/04/01/1585738639919.html</link>
+      <description/>
+      <author>weihubeats</author>
+      <guid>https://weihubeats.github.io/articles/2020/04/01/1585738639919.html</guid>
+      <category>设计模式</category>
+      <pubDate>Wed, 01 Apr 2020 18:58:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>Java设计模式之代理模式</title>
+      <link>https://weihubeats.github.io/articles/2020/04/01/1585738664034.html</link>
+      <description/>
+      <author>weihubeats</author>
+      <guid>https://weihubeats.github.io/articles/2020/04/01/1585738664034.html</guid>
+      <category>设计模式</category>
+      <pubDate>Wed, 01 Apr 2020 18:58:32 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
